@@ -1,4 +1,13 @@
-### Hi there 👋
+### Bem-vindo ao meu perfil 👋
+
+[![Instagram]https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/fred.saggio/)
+
+[![Linkedin]https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.linkedin.com/in/frederico-saggio-0a0145298/)
+
+![Fred github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
+
 
 <!--
 **fredsaggio/fredsaggio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
