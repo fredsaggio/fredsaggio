@@ -2,16 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Frederico+Saggio;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+
+
+<div align="center">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+</div> <br>
 <div align='center'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredsaggio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="fred-infos"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredsaggio&layout=compact&langs_count=16&theme=github_dark"/>
-</div> 
-
-<div align='center' style="display: inline_block"><br>
-  <img align="center" alt="Fred-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fred-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fred-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div> <br>
+
+
 
 <div align='center'>
   <a href="https://www.instagram.com/fred.saggio" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="fred-instagram" target="_blank"></a>
