@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Frederico+Saggio;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredsaggio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredsaggio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="fred-infos"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredsaggio&layout=compact&langs_count=16&theme=github_dark"/>
 </div> 
 
@@ -20,6 +20,8 @@
    <a href="mailto:saggiofrederico@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="fred-linkedin" target="_blank"></a>
 
 </div>
+
+![Snake animation](https://github.com/fredsaggio/fredsaggio/blob/output/github-contribution-grid-snake.svg)
 
 
 
