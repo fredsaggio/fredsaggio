@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
 </div> <br>
 <div align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredsaggio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="fred-infos"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredsaggio&show_icons=true&count_private=true&hide_border=false&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9&bg_color=0d1117" alt="Frederico Santos Saggio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredsaggio&layout=compact&langs_count=16&theme=github_dark"/>
 </div> <br>
 
