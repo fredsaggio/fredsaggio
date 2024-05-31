@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="center">Estudante de Ciência da computação, estudos com foco em front-end. Em busca de estágios 😉</p>
+<p align="center">Estudante de Ciência da computação. Em busca de estágios 😉</p>
 <hr>
 <br>
 <div align='center'>
