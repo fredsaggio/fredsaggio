@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="center">Estudante de Ciência da computação, estudando no momento: HTML, CSS, Javascript e Python. Em busca de estágios 😉</p>
+<p align="center">Estudante de Ciência da computação, estudando java no momento. Em busca de estágios 😉</p>
 <hr>
 <br>
 <div align='center'>
