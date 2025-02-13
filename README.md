@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="center">Estudante de Ciência da computação, estudando java no momento. Em busca de estágios 😉</p>
+<p align="center">Desenvolvedor de software e estudante de Ciência da Computação. Tenho conhecimentos em java python e javascript e atualmente estou aperfeiçoando meus conhecimentos em Spring Boot e banco de dados SQL. 😉</p>
 <hr>
 <br>
 <div align='center'>
