@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="center">Desenvolvedor de software e estudante de Ciência da Computação. Tenho conhecimentos em java, python e javascript e atualmente estou aperfeiçoando meus conhecimentos em Golang e banco de dados SQL. 😉</p>
+<p align="center">Desenvolvedor backend atualmente focado em Golang</p>
 <hr>
 <br>
 <div align='center'>
