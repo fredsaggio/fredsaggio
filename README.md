@@ -1,7 +1,11 @@
-<h1 align="center">Olá, me chamo Frederico 👋</h1>
+---
+
+<h1 align="center">👨‍💻 Frederico Saggio | @saggiofrederico</h1>
 
 <p align="center">
-  <b>Desenvolvedor Backend</b> focado na construção de sistemas eficientes e escaláveis.
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vcenter=true&width=435&lines=Desenvolvedor+Backend;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vcenter=true&width=435&lines=Desenvolvedor+Backend;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
+  </a>
 </p>
 
 <div align="center">
@@ -13,27 +17,25 @@
   </a>
 </div>
 
-<br />
+---
+
+## 🚀 Sobre Mim
+
+- 🎓 **Formação**: Estudante de Ciência da Computação.
+- 🌎 **Localização**: Maceió, Alagoas, Brasil.
+- 💼 **Profissão**: Desenvolvedor Backend.
+- 🚀 **Interesses**: Arquitetura Backend, Golang, Sistemas Distribuídos e Bancos de Dados.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
+
+<br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=go,java,python,postgres,js,html,css" alt="Minhas Tecnologias" />
 </div>
 
-<br />
+<br>
 
 ---
-
-### 📌 Sobre Mim
-
-- 🔭 Atualmente focado em ecossistema e desenvolvimento com **Golang**.
-- 💾 Experiência e estudos em modelagem de dados e bancos de dados relacionais como **PostgreSQL**.
-- 🛠️ Conhecimentos em desenvolvimento com **Java** e fundamentos web (**HTML**, **CSS**, **JavaScript**).
