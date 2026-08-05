@@ -3,32 +3,21 @@
 <h1 align="center">👨‍💻 Frederico Saggio | @fredsaggio</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vcenter=true&width=435&lines=Desenvolvedor+Backend;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vcenter=true&width=435&lines=Desenvolvedor+Backend;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
-  </a>
+  <b>Desenvolvedor Backend</b>
 </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/frederico-saggio-0a0145298/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:saggiofrederico@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
-
 ---
 
-## 🚀 Sobre Mim
+## 🚀 Sobre mim
 
-- 🎓 **Formação**: Estudante de Ciência da Computação.
-- 🌎 **Localização**: Maceió, Alagoas, Brasil.
+- 🎓 **Formação**: Graduando em Ciência da Computação.
 - 💼 **Profissão**: Desenvolvedor Backend.
-- 🚀 **Interesses**: Arquitetura Backend, Golang, Sistemas Distribuídos e Bancos de Dados.
+- 🔗 **LinkedIn**: [Frederico Saggio](https://www.linkedin.com/in/fredericosaggio/)
+- ✉️ **Contato**: [saggiofrederico@gmail.com](mailto:saggiofrederico@gmail.com)
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e ferramentas
 
 <br>
 
