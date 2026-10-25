@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building backend systems with Go and PostgreSQL.
+  Building backend systems with Go, Node.js, Java, and PostgreSQL.
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 I'm a **Backend Developer** and **Computer Science undergraduate at UNIMA**,
 with experience building RESTful APIs and working with relational databases,
-primarily using **Go and PostgreSQL**.
+primarily using **Go, Node.js, Java, and PostgreSQL**.
 
 I'm interested in how software architecture and design patterns help make
 systems more robust, scalable, and maintainable. Through practical projects,
@@ -42,7 +42,7 @@ and Domain-Driven Design**.
 **Backend & databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,postgres&theme=dark" alt="Go, Python, PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,java,python,postgres&theme=dark" alt="Go, Node.js, Java, Python, PostgreSQL" />
 </p>
 
 **Frontend**
