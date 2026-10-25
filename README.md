@@ -42,7 +42,7 @@ and Domain-Driven Design**.
 **Backend & databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,nodejs,postgres&theme=dark" alt="Go, Python, Node.js, PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=go,python,postgres&theme=dark" alt="Go, Python, PostgreSQL" />
 </p>
 
 **Frontend**
